@@ -22,7 +22,8 @@
 
 ![Java](https://worldvectorlogo.com/es/logo/oracle-logo-1)
 
-[![Oracle](oracle-logo-1)](https://github.com/Gonzalo-Perez-1988/logos/issues/2#issue-2618573676)
+![oracle-logo-1](https://github.com/user-attachments/assets/11a6bae2-88a9-479c-b400-9fb743371580)
+
 
 ![logoc++](https://github.com/user-attachments/assets/c2841c3f-7215-4b86-b28b-3c903590ed71)
 
