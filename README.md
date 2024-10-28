@@ -20,7 +20,8 @@
 
 - 🪢 Estoy interesado en aprender sobre **Programación** **Lenguajes de marcas** **Bases de Datos** entre ***Otros***
 
-![Java](https://worldvectorlogo.com/es/logo/oracle-logo-1)
+![Java-Logo](https://github.com/user-attachments/assets/c9ec3f9f-8be0-4492-8fb5-d662edf82e6c)
+
 
 ![oracle-logo-1](https://github.com/user-attachments/assets/11a6bae2-88a9-479c-b400-9fb743371580)
 
@@ -29,16 +30,20 @@
 
 
 
+- En lo relativo a mis preferencias tecnológicas me gustaría desarrollarme en:
+
+	- **Frontend**
+	- **Full-stack**
+	- **Diseño UI/UX**
+
 ---
 
 - En el transcurso del curso se requerirá de unos conocimientos más amplios en:
 
-
+|               |           |
 |---------------|----------|
 | JavaScript    | VSCode   |
-|---------------|----------|
 | Git           | HTML     |
-|---------------|----------|
 |CSS            |          |
 
 
