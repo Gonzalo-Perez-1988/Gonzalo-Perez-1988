@@ -9,19 +9,22 @@
 
 - 💻 Estoy cursando asignaturas como:
 
-	-***Entornos de Desarrollo***
-	-***Programación***
-	-***Bases de Datos***
-	-***Itinerario Personal para la Empleabilidad***
-	-***Lenguajes de marcas***
-	-***Sistemas Informáticos***
-	-***Inglés Profesional***
-	-***Digitalización Aplicada al Sistema Productivo***
+	- ***Entornos de Desarrollo***
+	- ***Programación***
+	- ***Bases de Datos***
+	- ***Itinerario Personal para la Empleabilidad***
+	- ***Lenguajes de marcas***
+	- ***Sistemas Informáticos***
+	- ***Inglés Profesional***
+	- ***Digitalización Aplicada al Sistema Productivo***
 
-- 🪢 Estoy interesado en aprender sobre **<Programación>** **<Lenguajes de marcas>** **<Bases de Datos>** entre ***<Otros>***
-![Java](https://www.flaticon.es/icono-gratis/java_226777)
+- 🪢 Estoy interesado en aprender sobre **Programación** **Lenguajes de marcas** **Bases de Datos** entre ***Otros***
 
-![Oracle](https://worldvectorlogo.com/es/logo/oracle-logo-1)
+![Java](https://worldvectorlogo.com/es/logo/oracle-logo-1)
+
+![Oracle](oracle-logo-1)
+
+
 
 ---
 
@@ -45,5 +48,3 @@
 
 - 🌐 Cómo contactarme...
 ## 13763626@alu.murciaeduca.es
-
-
