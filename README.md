@@ -24,6 +24,8 @@
 
 ![Oracle](oracle-logo-1)
 
+![logoc++](https://github.com/user-attachments/assets/c2841c3f-7215-4b86-b28b-3c903590ed71)
+
 
 
 ---
