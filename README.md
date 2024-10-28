@@ -20,12 +20,7 @@
 
 - 🪢 Estoy interesado en aprender sobre **Programación** **Lenguajes de marcas** **Bases de Datos** entre ***Otros***
 
-![Java-Logo svg](https://github.com/user-attachments/assets/a843fd7b-fd90-4af2-9feb-ec163f809107)
-
-
-
-![oracle-logo-1](https://github.com/user-attachments/assets/11a6bae2-88a9-479c-b400-9fb743371580)
-
+![JavaScript128](https://github.com/user-attachments/assets/1d3040c2-4b51-4999-951c-7bcd3b59feae)
 
 ![logoc++](https://github.com/user-attachments/assets/c2841c3f-7215-4b86-b28b-3c903590ed71)
 
