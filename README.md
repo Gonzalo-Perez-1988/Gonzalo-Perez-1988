@@ -56,5 +56,5 @@
 - 🌐 Cómo contactarme...
 ## 13763626@alu.murciaeduca.es
 
-“A veces la más grande de las victorias se construye sobre muchas derrotas previas.”
+>“A veces la más grande de las victorias se construye sobre muchas derrotas previas.”
 Santiago Posteguillo
