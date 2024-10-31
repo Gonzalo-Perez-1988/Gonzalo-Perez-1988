@@ -22,7 +22,7 @@
 
 ![Python-logo-notext](https://github.com/user-attachments/assets/14ba9224-d26e-4ed9-b29f-db5e8a00231d)
 ![javascript](https://github.com/user-attachments/assets/2d88a58c-acca-48a7-bf0d-5d50b75426f2)
-![logoc++](https://github.com/user-attachments/assets/c2841c3f-7215-4b86-b28b-3c903590ed71)
+
 
 
 
@@ -54,7 +54,7 @@
 
 
 - 🌐 Cómo contactarme...
-## 13763626@alu.murciaeduca.es
+## [Contacto](13763626@alu.murciaeduca.es)
 
 >“A veces la más grande de las victorias se construye sobre muchas derrotas previas.”
 Santiago Posteguillo
